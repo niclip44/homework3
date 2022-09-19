@@ -11,7 +11,7 @@
   <thead>
     <tr>
       <th>
-      <th>Name</th>
+      <th>Professor Name and Email</th>
   </thead>
   <tbody>
     <?php
