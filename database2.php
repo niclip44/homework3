@@ -27,7 +27,7 @@ if ($conn->connect_error) {
   die("Connection failed: " . $conn->connect_error);
 }
 
-$sql = "SELECT Professor_id, Professor Name, Email from Professors";
+$sql = "SELECT * from Professors";
 $result = $conn->query($sql);
 
 if ($result->num_rows > 0) {
