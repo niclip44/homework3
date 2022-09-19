@@ -17,7 +17,7 @@
   <tbody>
     <?php
 $servername = "localhost";
-$username = "datauser6";
+$username = "makingmo_datauser6";
 $password = "X]kdLX*;]rEq";
 $dbname = "makingmo_Database1";
 
