@@ -7,6 +7,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
   </head>
   <body>
+     <h1>Textbooks Needed</h1>
 <table class="table table-striped">
   <thead>
     <tr>
@@ -49,7 +50,6 @@ $conn->close();
 ?>
   </tbody>
     </table>
-    <h1>Hello, world!</h1>
     <form action="handlepost.php" method="get">
     <a class="btn btn-primary" href="index.php" role="button">Table 1</a>
       <a class="btn btn-primary" href="database2.php" role="button">Table 2</a>
