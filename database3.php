@@ -11,7 +11,8 @@
   <thead>
     <tr>
       <th>
-      <th>Textbook Information </th>
+     <th>Textbook ID</th>
+      <th>Textbook Name</th>
       <th>Course ID</th>
   </thead>
   <tbody>
