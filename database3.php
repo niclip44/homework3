@@ -11,7 +11,8 @@
   <thead>
     <tr>
       <th>
-      <th>Textbook Information and Course ID</th>
+      <th>Textbook Information </th>
+      <th>Course ID</th>
   </thead>
   <tbody>
     <?php
