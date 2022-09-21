@@ -50,8 +50,8 @@ $conn->close();
   </tbody>
     </table>
     <form action="handlepost.php" method="get">
-    <a class="btn btn-primary" href="index.php" role="button">Table 1</a>
-      <a class="btn btn-primary" href="database3.php" role="button">Table 3</a>
+    <a class="btn btn-primary" href="index.php" role="button">Courses</a>
+      <a class="btn btn-primary" href="database3.php" role="button">Textbooks</a>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
   </body>
 </html>
