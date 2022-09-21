@@ -38,7 +38,7 @@ if ($result->num_rows > 0) {
 ?>
   <tr>
     <td><?=$row["Student_id"]?></td>
-    <td><?=$row["Student_Name"]?></td>
+    <td><?=$row["Student_name"]?></td>
     <td><?=$row["Course_id"]?></td>
   </tr>
 <?php
