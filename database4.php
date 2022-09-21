@@ -12,7 +12,7 @@
   <thead>
     <tr>
       <th>
-      <th>Textbook Name</th>
+      <th>Student Name</th>
       <th>Course ID</th>
   </thead>
   <tbody>
